@@ -1,4 +1,40 @@
 
+body {
+	font-family: 'Montserrat', Arial, sans-serif;
+}
 span {
-  font-weight: bold;
+    font-weight: bold;
+}
+
+header {
+	color: #afc67b;
+	text-transform: uppercase;
+}
+
+header a  {
+	color: #afc67b;
+}
+a {
+    text-decoration: none; 
+}
+
+nav a  {
+	font-size: 20px;
+}
+
+li {
+	list-style: none;
+}
+
+p {
+	font-size: 56px; 
+}
+
+span {
+	font-size: 78px;
+	font-weight: bold;
+}
+ 
+.more-text {
+    font-size: 49px;
 }
