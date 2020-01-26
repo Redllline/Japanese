@@ -2,6 +2,8 @@
 body {
 	font-family: 'Montserrat', Arial, sans-serif;
     width: 1440px;
+    margin: 0;
+    padding: 0;
 }
 span {
     font-weight: bold;
@@ -12,6 +14,7 @@ header {
 	color: #afc67b;
 	text-transform: uppercase;
 	background: url(img/pag.jpg);
+	margin: 0;
 }
 
 header a  {
